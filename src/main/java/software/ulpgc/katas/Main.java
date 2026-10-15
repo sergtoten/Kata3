@@ -16,6 +16,6 @@ public class Main {
                 .GET()
                 .build();
         String response = client.send(request, HttpResponse.BodyHandlers.ofString()).body();
-        System.out.println(response);
+
     }
 }
