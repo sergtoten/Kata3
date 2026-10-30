@@ -46,4 +46,4 @@ Para clonar el repositorio se puede usar en la terminal del IntelliJ el comando 
 ## ENLACE AL VIDEO EXPLICATIVO
 [https://youtu.be/UBGOnvGSxBQ](https://youtu.be/tDLPOrKmnxM)
 
-En el video explicativo se muestra como se hizo la kata repitiendo los pasos que realizó el profesor en clases.
+En el video explicativo se muestra como se hizo la kata usando los conceptos aprendidos en clase.
